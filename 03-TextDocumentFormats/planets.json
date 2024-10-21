@@ -14,9 +14,10 @@
     {
       "name": "Earth",
       "diameter": 12742,
-      "distance_from_sun": "149.6 million km"
-      "moons": 1
+      "distance_from_sun": "149.6 million km",
+      "moons": 1,
       "has_rings": false
+    },
     {
       "name": "Mars"
       "diameter": 6779,
@@ -51,5 +52,6 @@
       "distance_from_sun": 4497,
       "moons": 14,
       "has_rings": true
+    }
   ]
   

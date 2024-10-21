@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<geometricFigures>
+    <figure>
+        <name>Shpere</name>
+        <type>3D</type>
+        <properties>
+            <property>Radius</property>
+            <property>Volume</property>
+            <property>Diameter</property>
+        </properties>
+        <formulas>
+            <area>4 * π * radius^2</area>
+            <volume>4 / 3 * π * radius^3</volume>
+            <diameter>2 * radius</diameter>
+        </formulas>
+    </figure>
+    <figure>
