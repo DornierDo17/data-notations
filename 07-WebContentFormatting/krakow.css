@@ -1,0 +1,42 @@
+table {
+    width: 100%;
+    border-collapse: initial;
+    margin: 25px 0;
+    font-size: 18px;
+    text-align: left;
+}
+
+th{
+    color:navy;
+    font-size: 18px;
+    padding: 12px;
+    background-color: lightblue;
+    border-collapse: initial;
+}
+
+th:nth-child(1){
+    width: 25%;
+}
+
+th:nth-child(4){
+    width: 40%;
+}
+
+tr{
+    background-color: bisque;
+    color:rgb(122, 18, 10);
+    padding: 12px;
+    border-bottom: 1px solid white;
+    border-collapse: collapse;
+}
+
+tr:hover{
+    background-color: cornflowerblue;
+}
+
+@media (max-width: 600px){
+table{
+    width: 100%;
+    font-size: 18px;
+    }
+}

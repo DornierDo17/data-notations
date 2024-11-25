@@ -1,0 +1,28 @@
+h2 {
+    text-align: center;
+    padding: 15px;
+    border-top: 50px;
+    font-size: 20px;
+    color:cadetblue;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    text-align: center;
+    height: 100vh;
+    padding: 15px;
+}
+
+form{
+    border: 5px;
+    font-size: 20px;
+    color:darkcyan;
+    align-items: center;
+    text-indent: 5px;
+    text-justify: distribute;
+    text-decoration: dotted;
+    
+}
+
